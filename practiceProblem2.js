@@ -2,7 +2,7 @@ var Rakibul = 85;
 var Tom = 66;
 var Jane = 95;
 var Peter = 56;
-var mark = 85;
+var mark = 56;
 if (mark >= 80) {
     console.log('A');
 } else if(mark >= 60)
